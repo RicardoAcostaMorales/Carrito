@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Carrito/static/css/main.f7f8b011.css",
+    "main.js": "/Carrito/static/js/main.8177e404.js",
+    "index.html": "/Carrito/index.html",
+    "main.f7f8b011.css.map": "/Carrito/static/css/main.f7f8b011.css.map",
+    "main.8177e404.js.map": "/Carrito/static/js/main.8177e404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7f8b011.css",
+    "static/js/main.8177e404.js"
+  ]
+}
